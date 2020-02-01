@@ -223,7 +223,7 @@ public class Production
 
 ```
 
-I created Logic to allow you to see a differen't view ithat displayed only the current productions in the list:
+I created Logic to allow you to see a differen't view that displayed only the current productions in the list:
 
 ```
 
@@ -235,3 +235,8 @@ I created Logic to allow you to see a differen't view ithat displayed only the c
             return View(current.ToList());
         }
 ```
+
+# Overall Experience
+Over the past two weeks doing this project I learned alot about the languages I was coding in and about a group experince. I knew a lot about what we were doing but to create the things that I was being asked of I had to do further research, which made my knowledge of the languages that much deeper. 
+
+The experience with working on a team and on an active project was great. As I continued on the prject I felt that I was becoming more and more comfortable and things started to flow easier. My familiarity with the project and the group started growing and it made it easier for me to complete the targets that I was working on. I now have the reality on what it's like to work with a team on a real project.    
