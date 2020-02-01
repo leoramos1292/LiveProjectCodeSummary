@@ -1,6 +1,6 @@
 # Live Project Code Summary
 
-Introduction
+## Introduction
 
 At the end of The Tech Academy's bootcamp I did a two week Live Project with fellow Tech Academy Students. We worked on an ASP.NET MVC Webapp using a code first database model with Entity Framework for a local Theater Group in Portland, OR.
 
