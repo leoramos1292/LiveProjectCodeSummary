@@ -237,6 +237,6 @@ I created Logic to allow you to see a differen't view that displayed only the cu
 ```
 
 # Overall Experience
-Over the past two weeks doing this project I learned alot about the languages I was coding in and about a group experince. I knew a lot about what we were doing but to create the things that I was being asked of I had to do further research, which made my knowledge of the languages that much deeper. 
+Over the past two weeks, working on this project taught me more than expected in regards to the coding, as well as the group experience. The project pushed me to expand my knowledge by doing further research in order to fully complete the tasks I was given, which, in turn, increased my ability and confidence in getting future projects done.
 
-The experience with working on a team and on an active project was great. As I continued on the prject I felt that I was becoming more and more comfortable and things started to flow easier. My familiarity with the project and the group started growing and it made it easier for me to complete the targets that I was working on. I now have the reality on what it's like to work with a team on a real project.    
+The overall experience with working on an active project with a team was extraordinary. As the project continued, I felt more comfortable and the tasks began to flow easier, increasing my work speed. I now have a very good grasp and appreciation on what working on a real project with a group of team members is like.    
